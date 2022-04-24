@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'AwesomePaneer\'s Blog',
   domain: '',
-  author: 'Raj Shah',
+  author: 'AwesomePaneer',
 
   // open graph metadata (optional)
   description: 'BrainFlush',
